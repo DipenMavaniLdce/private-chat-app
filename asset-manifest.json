@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/chat/static/css/main.5a0f12ef.chunk.css",
+    "main.js": "/chat/static/js/main.60fef4e0.chunk.js",
+    "main.js.map": "/chat/static/js/main.60fef4e0.chunk.js.map",
+    "runtime-main.js": "/chat/static/js/runtime-main.d28438c1.js",
+    "runtime-main.js.map": "/chat/static/js/runtime-main.d28438c1.js.map",
+    "static/js/2.45c78d02.chunk.js": "/chat/static/js/2.45c78d02.chunk.js",
+    "static/js/2.45c78d02.chunk.js.map": "/chat/static/js/2.45c78d02.chunk.js.map",
+    "index.html": "/chat/index.html",
+    "precache-manifest.208ee874719270f212f685c3c312863b.js": "/chat/precache-manifest.208ee874719270f212f685c3c312863b.js",
+    "service-worker.js": "/chat/service-worker.js",
+    "static/css/main.5a0f12ef.chunk.css.map": "/chat/static/css/main.5a0f12ef.chunk.css.map",
+    "static/js/2.45c78d02.chunk.js.LICENSE.txt": "/chat/static/js/2.45c78d02.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d28438c1.js",
+    "static/js/2.45c78d02.chunk.js",
+    "static/css/main.5a0f12ef.chunk.css",
+    "static/js/main.60fef4e0.chunk.js"
+  ]
+}
